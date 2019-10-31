@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing(NLP), Machine Learning, 
+bio: My research interests include Natural Language Processing(NLP), Machine Learning, Deep Learning, Information Retrieval.
 
 interests:
 - Natural Language Processing(NLP)
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Md. Kishor Morol is a Lecturer of Computer Science department at American International University-Bangladesh (AIUB). His research interests include Natural Language Processing(NLP), Machine Learning, Deep Learning, Information Retrieval.
 
